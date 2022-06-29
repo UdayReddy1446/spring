@@ -1,0 +1,9 @@
+package com.greatlearning;
+
+public class Student {
+	private int stdid;
+	private String stdname;
+	private String stdaddress;
+	
+
+}
